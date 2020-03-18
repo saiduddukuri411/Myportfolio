@@ -1,0 +1,103 @@
+
+
+.Sor_Project{
+
+    
+    margin:auto;
+    width:450px;
+    height:270px;
+    text-align:center;
+    font-weight: bold;
+    font-size:1.2rem;
+    border-top:5px solid #F0F0F0;
+    border-bottom:5px solid #F0F0F0;
+    border-right:5px solid #F0F0F0;
+    border-left:5px solid #F0F0F0;
+    background:rgba(0,0,0,0.05);
+
+}
+
+.Sor_Project img{
+    width: 100%;
+  height: auto;
+}
+.Vis_Project{
+
+    
+    margin:auto;
+    width:450px;
+    height:270px;
+    text-align:center;
+    font-weight: bold;
+    font-size:1.2rem;
+    border-top:5px solid #F0F0F0;
+    border-bottom:5px solid #F0F0F0;
+    border-right:5px solid #F0F0F0;
+    border-left:5px solid #F0F0F0;
+    background:rgba(0,0,0,0.05);
+
+}
+
+.Vis_Project img{
+    width: 100%;
+  height: auto;
+}
+.Project{
+
+    
+    margin:auto;
+    width:350px;
+    height:350px;
+    text-align:center;
+    font-weight: bold;
+    font-size:1.2rem;
+    border-top:5px solid #F0F0F0;
+    border-bottom:5px solid #F0F0F0;
+    border-right:5px solid #F0F0F0;
+    border-left:5px solid #F0F0F0;
+    background:rgba(0,0,0,0.05);
+
+}
+
+.Project img{
+    width: 100%;
+  height: auto;
+}
+/* @media (min-width:500px) and (min-height:400px){
+    .Project{
+        width: 350px;
+        height:300px;
+    }
+}
+
+@media (min-width:500px) and (min-height:401px){
+    .Project{
+        width: 450px;
+        height:400px;
+    }
+}
+
+@media (min-width:1000px) and (min-height:700px){
+    .Project{
+        width: 300px;
+        height:300px;
+        box-shadow: 0 0 5px 5px #B2BEB5;
+    }
+}
+
+.Project img{
+    width: 100%;
+  height: auto;
+}
+
+.Projects{
+
+    width: 400px;
+    height:400px;
+    box-shadow: 0 0 5px 5px #B2BEB5;
+    margin:auto;
+    text-align:center;
+    font-weight: bold;
+    font-size:1.2rem;
+} */
+
